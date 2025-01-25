@@ -33,3 +33,4 @@ print(bin(10)[2:])
 print(hex(100))
 print(type(hex(100)))
 print(hex(100)[2:])
+
