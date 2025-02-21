@@ -28,3 +28,6 @@ newdict=dict(zip(['name','age'],['aditya',20]))
 print(newdict)
 
 
+for k,v in dic.items():
+	print(k)
+	print(v)

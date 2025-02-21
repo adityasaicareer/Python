@@ -92,5 +92,7 @@ print(type(pairs[0]))
 
 # the above p gives us the tuple
 
+for i,v in enumerate(s2):
+	print(f" {i} and value {v}")
 
 
